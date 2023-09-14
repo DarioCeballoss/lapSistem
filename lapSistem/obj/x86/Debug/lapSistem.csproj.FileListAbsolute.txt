@@ -1,0 +1,9 @@
+c:\lapSistem\lapSistem\bin\Debug\lapSistem.exe
+c:\lapSistem\lapSistem\bin\Debug\lapSistem.pdb
+c:\lapSistem\lapSistem\obj\x86\Debug\lapSistem.Properties.Resources.resources
+c:\lapSistem\lapSistem\obj\x86\Debug\lapSistem.csproj.GenerateResource.Cache
+c:\lapSistem\lapSistem\obj\x86\Debug\lapSistem.exe
+c:\lapSistem\lapSistem\obj\x86\Debug\lapSistem.pdb
+c:\lapSistem\lapSistem\obj\x86\Debug\lapSistem.frmPrincipal.resources
+c:\lapSistem\lapSistem\obj\x86\Debug\lapSistem.formLogIn.resources
+c:\lapSistem\lapSistem\obj\x86\Debug\lapSistem.frmUsuarioPrincipal.resources
